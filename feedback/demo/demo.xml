@@ -1,0 +1,10 @@
+<odoo>
+    <data>
+          <record id="object0" model="feedback.feedback">
+            <field name="title">Обращение от Персика</field>
+            <field name="user_name">perseus</field>
+            <field name="user_email">perseus@good.dog</field>
+            <field name="message">Мне понравился корм, жду такой же через полчаса.</field>
+          </record>
+    </data>
+</odoo>
